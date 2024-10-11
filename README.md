@@ -5,6 +5,7 @@ RetroBatch es un script batch que permite ejecutar ROMS (NES-PS2)
 ## Características
 
 -**Tu PC no corre RetroArch?**: Usa RetroBatch!
+
 -**Mas facil de usar**: Los Cores vienen incluidos y esta intentando de ser 100% sin errores
 
 ## Descarga
